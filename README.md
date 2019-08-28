@@ -3,7 +3,7 @@
 This is a DIY project where i have created a smart mirror Microcomputer . 
 
 
-You can use the [editor on GitHub](https://github.com/PiyushTri/SmartMirror/frame Layout design.gif) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/PiyushTri/SmartMirror/frame_Layout_design.gif) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

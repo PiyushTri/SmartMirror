@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome
 
+This is a DIY project where i have created a smart mirror Microcomputer . 
 
-This is a 
 
 You can use the [editor on GitHub](https://github.com/PiyushTri/SmartMirror/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

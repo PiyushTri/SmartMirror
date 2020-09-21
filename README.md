@@ -1,7 +1,12 @@
 ## Welcome
 
-This is a DIY project where i have created a smart mirror Microcomputer . 
+This is a DIY project where i have created a Smart Photo Frame  . 
 
+Steps : 
+    1. you have to first Login/ REgister to web app . then configure device with Wifi
+    2.  you have to first Register using Device Id 
+    3. then you can upload photos and can update Location of photo and Clicked Date and save it 
+    4. Device will autometically updates all changes and it reflects in Photo Frame
 
 You can use the [editor on GitHub](https://github.com/PiyushTri/SmartMirror/blob/master/frame_Layout_design.gif) to maintain and preview the content for your website in Markdown files.
 ![](frame_Layout_design.gif)
